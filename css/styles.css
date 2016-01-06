@@ -2,7 +2,13 @@
   width: 30%;
   float: left;
   text-align: center;
-  margin: 1%;
+  margin: 1.4%;
+  border: solid black 1px;
+  border-radius: 5%;
+}
+
+.animal p {
+  padding: 0px 4%;
 }
 
 img {
