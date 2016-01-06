@@ -4,23 +4,23 @@
 
 #### By Michelle Brecunier and Joe Karasek  
 ----
-## Description
+### Description
 
 This is a mock website for an animal shelter as part of an Epicodus exercise. The purpose is to practice css cascading, media queries, and float. It is a one page site.
 ----
-## Setup/Installation Requirements
+### Setup/Installation Requirements
 
 Clone this repository and open with any standard web browser.
 ----
-## Support and contact details
+### Support and contact details
 
 joseph.karasek@gmail.com
 ----
-## Technologies Used
+### Technologies Used
 
 html, css, media queries
 ----
-### License
+#### License
 MIT License.
 
 Copyright (c) 2016 **Michelle Brecunier and Joe Karasek**
