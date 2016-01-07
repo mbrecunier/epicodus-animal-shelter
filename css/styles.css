@@ -46,16 +46,24 @@ img {
 
 /*media query for screens smaller than 900px*/
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 900px) and (min-width: 520px){
   .animal {
     width: 46%;
     margin: 1%;
+  }
+  .animal:nth-child(4n),
+  .animal:nth-child(4n-1) {
+    background-color: grey;
   }
 }
 
 @media only screen and (max-width: 520px) {
   .animal {
     width: 98%;
-    
+
+  }
+
+  .animal:nth-child(2n) {
+    background-color: grey;
   }
 }
