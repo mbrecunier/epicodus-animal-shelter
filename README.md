@@ -6,11 +6,11 @@
 ****
 ### Description
 
-This is a mock website for an animal shelter as part of an Epicodus exercise. The purpose is to practice css cascading, media queries, and float. It is a one page site.
+This is a mock website for an animal shelter as part of an Epicodus exercise. The purpose is to practice css cascading, media queries, and float. It is a one page site. Change your browser viewport to see media query actions.
 ****
 ### Setup/Installation Requirements
 
-Clone this repository and open with any standard web browser.
+Clone this repository and open with any standard web browser. Make sure to resize the browser window to see how media query changes the css.
 ****
 ### Support and contact details
 
