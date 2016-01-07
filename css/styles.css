@@ -42,3 +42,12 @@ img {
 #subheader p {
   font-weight: bold;
 }
+
+/*media query for screens smaller than 900px*/
+
+@media only screen and (max-width: 900px) {
+  .animal {
+    width: 46%;
+    margin: 1%;
+  }
+}
