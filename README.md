@@ -10,7 +10,13 @@ This is a mock website for an animal shelter as part of an Epicodus exercise. Th
 ****
 ### Setup/Installation Requirements
 
-Clone this repository and open with any standard web browser. Make sure to resize the browser window to see how media query changes the css.
+* Clone this repository
+* Open index.html with any standard web browser
+ 
+--or--
+
+* View with [GitHub Pages] (http://mbrecunier.github.io/epicodus-animal-shelter/)
+
 ****
 ### Support and contact details
 
